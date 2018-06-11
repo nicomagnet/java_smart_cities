@@ -1,0 +1,6 @@
+In order to remove eclipse warnings, tell Eclipse that those aren't errors. 
+
+You can change it by going to:
+
+ Properties --> Java Compiler --> Errors Warnings --> Deprecated and restrited APIs 
+     --> Forbidden reference (acess rule), Change it from Error to Warning or Ignore.
